@@ -1,0 +1,183 @@
+{
+  "products": {
+    "category": {
+      "tech": [
+        {
+          "id": 1,
+          "productTitle": "tech title 1",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 2,
+          "productTitle": "tech title 2",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 3,
+          "productTitle": "tech title 3",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 4,
+          "productTitle": "tech title 4",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 5,
+          "productTitle": "tech title 5",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        }
+      ],
+      "spor": [
+        {
+          "id": 6,
+          "productTitle": "spor title 1",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 7,
+          "productTitle": "spor title 2",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 8,
+          "productTitle": "spor title 3",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 9,
+          "productTitle": "spor title 4",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 10,
+          "productTitle": "spor title 5",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        }
+      ],
+      "sanat": [
+        {
+          "id": 10,
+          "productTitle": "sanat title 5",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 11,
+          "productTitle": "sanat title 5",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 12,
+          "productTitle": "sanat title 5",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        }
+      ],
+      "music": [
+        {
+          "id": 11,
+          "productTitle": "music title 5",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 12,
+          "productTitle": "music title 5",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        },
+        {
+          "id": 13,
+          "productTitle": "music title 5",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+          "image": "https://i.imgur.com/xdbHo4E.png",
+          "price": 200
+        }
+      ]
+    }
+  },
+  "users": [
+    {
+      "userName": "berke",
+      "email": "berke@gmail.com",
+      "password": "1234",
+      "products": [
+        [
+          {
+            "id": 1,
+            "productTitle": "tech title 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+            "image": "https://i.imgur.com/xdbHo4E.png",
+            "price": 200
+          },
+          {
+            "id": 2,
+            "productTitle": "tech title 2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+            "image": "https://i.imgur.com/xdbHo4E.png",
+            "price": 200
+          }
+        ],
+        [
+          {
+            "id": 10,
+            "productTitle": "sanat title 5",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+            "image": "https://i.imgur.com/xdbHo4E.png",
+            "price": 200
+          },
+          {
+            "id": 11,
+            "productTitle": "sanat title 5",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+            "image": "https://i.imgur.com/xdbHo4E.png",
+            "price": 200
+          },
+          {
+            "id": 12,
+            "productTitle": "sanat title 5",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim purus nec sapien pharetra, nec vulputate quam consequat. Nunc eu aliquam sapien, non efficitur diam. ",
+            "image": "https://i.imgur.com/xdbHo4E.png",
+            "price": 200
+          }
+        ],
+        []
+      ],
+      "id": 1
+    },
+    {
+      "userName": "berket",
+      "email": "berket@gmail.com",
+      "password": "1234",
+      "products": [],
+      "id": 2
+    }
+  ]
+}

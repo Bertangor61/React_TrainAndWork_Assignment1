@@ -1,0 +1,37 @@
+.welcome-hero {
+  position: relative;
+  background:url(./assets/banner.jpg)no-repeat;
+  background-position:center;
+  background-size:cover;
+  text-align: center;
+  height:500px;
+  z-index: 1;
+}
+
+.welcome-hero:before{
+  position: absolute;
+  content: " ";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background:rgba(65,73,89,.65);
+  z-index: -1;
+}
+
+.welcome-hero-txt { padding-top: 155px;}
+.welcome-hero-txt-2 { padding-top: 20px;}
+.welcome-hero-txt h2 {
+    font-size: 48px;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+    line-height: 1.4;
+}
+.welcome-hero-txt p {
+    font-size: 18px;
+    color: #fcfcfc;
+    margin-top: 25px;
+}
+
